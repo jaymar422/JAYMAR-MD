@@ -90,7 +90,7 @@
 
   ---
   <p style="color: #aaaaaa; font-size: 12px; margin-top: 10px;">
-    <img src="https://github.com/JawadTechXD/KHAN-MD/blob/main/assets/warning.gif?raw=true" width="15"/> 
+    <img src="https://github.com/jaymar422/JAYMAR-MD/blob/main/assets/warning.gif?raw=true" width="15"/> 
     Connection issues may require VPN activation
   </p>
 </div>
@@ -98,7 +98,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/JawadTechXD/KHAN-MD/blob/main/assets/techwave.gif?raw=true" width="80%"/>
+  <img src="https://github.com/jaymar422/JAYMAR-MD/blob/main/assets/techwave.gif?raw=true" width="80%"/>
 </div>
 
 
@@ -134,7 +134,7 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j/2303" target="_blank">
+      <a href="https://whatsapp.com/channel/0029Vb6CfqvBKfhyPm7QRj3b" target="_blank">
         <img alt="View Workflow Codes" src="https://img.shields.io/badge/View-Workflow%20Codes-FF0076?style=for-the-badge&logo=githubactions&logoColor=white"/>
       </a>
     </td>
@@ -151,13 +151,13 @@
 
 
 <div align="center">
-  <img src="https://github.com/JawadTechXD/KHAN-MD/blob/main/assets/cyberdivider.gif?raw=true" width="100%"/>
+  <img src="https://github.com/jaymar422/JAYMAR-MD/blob/main/assets/cyberdivider.gif?raw=true" width="100%"/>
 </div>
 
 ## 🪀  SUPPORT CHANNEL
 
 <div align="center">
-  <a href="https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j">
+  <a href="https://whatsapp.com/channel/0029Vb6CfqvBKfhyPm7QRj3b">
     <img src="https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000"/>
   </a>
 </div>
@@ -182,13 +182,13 @@
 
 ## 🗃️ PROJECT ARCHITECTS
 <div align="center">
-  <a href="https://github.com/JawadTechXD">
-    <img src="https://github-readme-stats.vercel.app/api?username=JawadTechXD&show_icons=true&theme=dark&border_color=00ffff&title_color=00ffff&icon_color=00ffff" width="400"/>
+  <a href="https://github.com/jaymar422">
+    <img src="https://github-readme-stats.vercel.app/api?username=jaymar422&show_icons=true&theme=dark&border_color=00ffff&title_color=00ffff&icon_color=00ffff" width="400"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github.com/JawadTechXD/KHAN-MD/blob/main/assets/futuretech.gif?raw=true" width="100%"/>
+  <img src="https://github.com/jaymar422/JAYMAR-MD/blob/main/assets/futuretech.gif?raw=true" width="100%"/>
 </div>
 
 ## 👑 KHAN STATUS
@@ -200,7 +200,7 @@
 ```
 
 <div align="center">
-  <img src="https://github.com/JawadTechXD/KHAN-MD/blob/main/assets/endwave.gif?raw=true" width="100%"/>
+  <img src="https://github.com/jaymar422/JAYMAR-MD/blob/main/assets/endwave.gif?raw=true" width="100%"/>
 </div>
 
   <h3> Thank you for visiting ❤️ </h3>
