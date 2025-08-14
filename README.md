@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center" style="font-family: 'Orbitron', sans-serif; text-shadow: 0 0 10px #00ffff, 0 0 20px #0088ff;">𝗞𝗛𝗔𝗡-𝗠𝗗</h1>
+  <h1 align="center" style="font-family: 'Orbitron', sans-serif; text-shadow: 0 0 10px #00ffff, 0 0 20px #0088ff;">JAYMAR-MD</h1>
 </p>
 
 <p align="center">
@@ -16,12 +16,12 @@
 
 | Statistic | Badge |
 |-----------|-------|
-| **Profile Views** | <img src="https://komarev.com/ghpvc/?username=JawadTechXD&label=Profile+Views&color=9D00FF&style=flat-square"> |
-| **Last Update** | <img src="https://img.shields.io/github/last-commit/JawadTechXD/KHAN-MD?color=9D00FF&label=Last+Update&style=flat-square"> |
-| **Repo Size** | <img src="https://img.shields.io/github/repo-size/JawadTechXD/KHAN-MD?color=9D00FF&label=Repo+Size&style=flat-square"> |
-| **Stars** | <img src="https://img.shields.io/github/stars/JawadTechXD/KHAN-MD?color=9D00FF&label=Stars&style=flat-square"> |
-| **Forks** | <img src="https://img.shields.io/github/forks/JawadTechXD/KHAN-MD?color=9D00FF&label=Forks&style=flat-square"> |
-| **Visitors** | <img src="https://visitor-badge.laobi.icu/badge?page_id=JawadTechXD.KHAN-MD&style=flat-square&color=9D00FF"> | 
+| **Profile Views** | <img src="https://komarev.com/ghpvc/?username=jaymar422&label=Profile+Views&color=9D00FF&style=flat-square"> |
+| **Last Update** | <img src="https://img.shields.io/github/last-commit/jaymar422/JAYMAR-MD?color=9D00FF&label=Last+Update&style=flat-square"> |
+| **Repo Size** | <img src="https://img.shields.io/github/repo-size/jaymar422/JAYMAR-MD?color=9D00FF&label=Repo+Size&style=flat-square"> |
+| **Stars** | <img src="https://img.shields.io/github/stars/jaymar422/JAYMAR-MD?color=9D00FF&label=Stars&style=flat-square"> |
+| **Forks** | <img src="https://img.shields.io/github/forks/jaymar422/JAYMAR-MD?color=9D00FF&label=Forks&style=flat-square"> |
+| **Visitors** | <img src="https://visitor-badge.laobi.icu/badge?page_id=jaymar422.JAYMAR-MD&style=flat-square&color=9D00FF"> | 
 | **Maintained** | <img src="https://img.shields.io/badge/Maintained-Yes-00C853?style=flat-square"> |
 | **Version** | <img src="https://img.shields.io/badge/Version-1.0.0-0D47A1?style=flat-square"> |
 
