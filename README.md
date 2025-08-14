@@ -33,10 +33,10 @@
 
 ---
 
-## Support JawadTechXD
+## Support jaymar422
 
 <p align="center">
-  <a href="https://github.com/JawadTechXD">
+  <a href="https://github.com/jaymar422/JAYMAR-MD">
     <img src="https://img.shields.io/badge/_Follow_Us_Now-Jawad_TechX-9D00FF?style=for-the-badge&logo=follow" alt="Follow Badge" width="300">
   </a>
 </p>
@@ -48,7 +48,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" width="400" style="border-radius: 20px; box-shadow: 0 0 25px #0088ff;"/>
+  <img src="https://imgur.com/a/QZrd5eJ" width="400" style="border-radius: 20px; box-shadow: 0 0 25px #0088ff;"/>
 </div>
 
 <div align="center">
