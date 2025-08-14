@@ -64,7 +64,7 @@
 
 <div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 3px solid #ff00ff;">
   <p style="color: #00ffff;">First star & Fork repo using button Below</p>
-  <a href='https://github.com/JawadTechXD/KHAN-MD/fork' target="_blank">
+  <a href='https://github.com/jaymar422/JAYMAR-MD/fork' target="_blank">
     <img src='https://img.shields.io/badge/FORK_REPOSITORY-008000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000'/>
   </a>
 </div>
@@ -114,11 +114,11 @@
     </tr>
     <tr>
       <td>Heroku</td>
-      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/JawadTechXD/KHAN-MD"><img src="https://img.shields.io/badge/Deploy_to-Heroku-430098?style=for-the-badge&logo=heroku"></a></td>
+      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/jaymar422/JAYMAR-MD"><img src="https://img.shields.io/badge/Deploy_to-Heroku-430098?style=for-the-badge&logo=heroku"></a></td>
     </tr>
     <tr>
       <td>Koyeb</td>
-      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=JawadTechXD/KHAN-MD&ports=3000"><img src="https://img.shields.io/badge/Deploy_to-Koyeb-121212?style=for-the-badge&logo=koyeb"></a></td>
+      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=jaymar422/JAYMAR-MD&ports=3000"><img src="https://img.shields.io/badge/Deploy_to-Koyeb-121212?style=for-the-badge&logo=koyeb"></a></td>
     </tr>
     <tr>
       <td>Railway</td>
