@@ -44,7 +44,7 @@
 ---
 
 <div align="center">
-  <img src="https://imgur.com/a/QZrd5eJ" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
+  <img src="https://i.imgur.com/oNtYnZg.jpeg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
 </div>
 
 <div align="center">
