@@ -37,14 +37,14 @@
 
 <p align="center">
   <a href="https://github.com/jaymar422/JAYMAR-MD">
-    <img src="https://img.shields.io/badge/_Follow_Us_Now-Jawad_TechX-9D00FF?style=for-the-badge&logo=follow" alt="Follow Badge" width="300">
+    <img src="https://img.shields.io/badge/_Follow_Us_Now-jaymar_422-9D00FF?style=for-the-badge&logo=follow" alt="Follow Badge" width="300">
   </a>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://cdn.ironman.my.id/i/9zd4if.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
+  <img src="https://imgur.com/a/QZrd5eJ" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
 </div>
 
 <div align="center">
