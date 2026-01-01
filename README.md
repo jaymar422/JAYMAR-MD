@@ -23,13 +23,13 @@
 | **Forks** | <img src="https://img.shields.io/github/forks/jaymar422/JAYMAR-MD?color=9D00FF&label=Forks&style=flat-square"> |
 | **Visitors** | <img src="https://visitor-badge.laobi.icu/badge?page_id=jaymar422.JAYMAR-MD&style=flat-square&color=9D00FF"> | 
 | **Maintained** | <img src="https://img.shields.io/badge/Maintained-Yes-00C853?style=flat-square"> |
-| **Version** | <img src="https://img.shields.io/badge/Version-1.0.0-0D47A1?style=flat-square"> |
+| **Version** | <img src="https://img.shields.io/badge/Version-5.0.0-0D47A1?style=flat-square"> |
 
 </div>
 
 ---
 
-> **Current Bot Version `2.0.0`**  
+> **Current Bot Version `4.1.0`**  
 
 ---
 
