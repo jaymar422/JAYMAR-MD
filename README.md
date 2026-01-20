@@ -203,5 +203,5 @@
   <img src="https://github.com/jaymar422/JAYMAR-MD/blob/main/assets/endwave.gif?raw=true" width="100%"/>
 </div>
 
-  <h3> Thank you for visiting ❤️ </h3>
+  <h3> Thank you for choosing JAYMAR-MD ❤️ </h3>
 </p>
